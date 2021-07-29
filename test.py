@@ -1,0 +1,1 @@
+print("This is kubernetes cluster in Nutanix! Welcome Krishna Poddar)

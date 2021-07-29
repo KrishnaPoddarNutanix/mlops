@@ -1,0 +1,6 @@
+[core]
+    remote = myremote
+['remote "remote"']
+    url = http://10.48.62.144/
+['remote "myremote"']
+    url = /sglobal
